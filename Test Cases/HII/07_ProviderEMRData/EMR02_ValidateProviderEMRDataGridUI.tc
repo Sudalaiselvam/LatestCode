@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR02_ValidateProviderEMRDataGridUI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f4dd211-a6cd-478d-b8e9-817b58e1560b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4da5e721-3b60-41e3-bdf1-3b93c403b35d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/07_ProviderEMRData/td_EMR02_ValidateProviderEMRDataGridUI</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4da5e721-3b60-41e3-bdf1-3b93c403b35d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>393a7c37-735d-4029-ad77-b47cad5e96e3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>393a7c37-735d-4029-ad77-b47cad5e96e3</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+</TestCaseEntity>

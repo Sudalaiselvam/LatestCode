@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_EMR43_ValidateEmailReceivedWhenInvalidEMRFileUploaded</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>80da8dfb-ab5e-41ee-9b50-0ec5b9dc274b</dataFileGUID>
+   <dataSourceUrl>C:\Users\AzureAdmin\git\FinalH2ApplicationNew\QAAutomation\QAAutomation\Data Files\Aspirus\07_ProviderEMRData\EMR43_ValidateEmailReceivedWhenInvalidEMRFileUploaded.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

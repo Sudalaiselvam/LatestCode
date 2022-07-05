@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR36_ValidateRecordsInsertingBasedOnTerminateFlags</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41137f8f-c41e-48a7-94d4-efe65e09428a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>01307991-ed58-4f91-abfc-8f3f20b0a9dc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1f9eacb-79cf-49e4-8b93-eb55c6dc2b32</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'EMR Process'</defaultValue>
+      <description></description>
+      <id>01307991-ed58-4f91-abfc-8f3f20b0a9dc</id>
+      <masked>false</masked>
+      <name>JobName</name>
+   </variable>
+   <variable>
+      <defaultValue>'PRL7104'</defaultValue>
+      <description></description>
+      <id>f1f9eacb-79cf-49e4-8b93-eb55c6dc2b32</id>
+      <masked>false</masked>
+      <name>Provider</name>
+   </variable>
+</TestCaseEntity>

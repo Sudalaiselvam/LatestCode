@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR42_ValidateHistoricRecordsProviderEMRData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad06ec92-55a8-4546-81c5-1a59de725fc8</testCaseGuid>
+</TestCaseEntity>

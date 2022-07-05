@@ -1,0 +1,33 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+
+trigger:
+  branches:
+    include:
+    - main
+stages:
+- stage: __default
+  jobs:
+  - job: Job
+    timeoutInMinutes: 0
+    pool:
+      name: Default
+      demands:
+      - agent.name -equals CustomAgent
+    steps:
+    - task: katalonTask@1
+      inputs:
+       version: '8.3.0'
+       executeArgs: '-testSuitePath="Test Suites/SmokeTest" -browserType="Chrome" -executionProfile="default" -apiKey="f2538ad9-91c5-471b-ad09-c269ceade655" --config -webui.autoUpdateDrivers=true -retry=1 -sendMail="sunita.shaw@hallmarkhcs.com"'
+       xvfbConfiguration: '-a -n 0 -s "-screen 0 1024x768x24"'
+      retryCountOnTaskFailure: 1
+      condition: succeededOrFailed()
+
+    - task: PublishTestResults@2
+      inputs:
+        testResultsFormat: 'JUnit'
+        testResultsFiles: 'Reports/**/SmokeTest/**/*.xml'
+      condition: succeededOrFailed()

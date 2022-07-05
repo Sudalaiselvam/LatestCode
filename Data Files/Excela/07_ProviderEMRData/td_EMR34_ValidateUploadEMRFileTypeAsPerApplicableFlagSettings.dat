@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_EMR34_ValidateUploadEMRFileTypeAsPerApplicableFlagSettings</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c711ddee-1a3c-4406-8ef1-e0cfa0680ee9</dataFileGUID>
+   <dataSourceUrl>C:\Users\AzureAdmin\git\FinalH2ApplicationNew\QAAutomation\QAAutomation\Data Files\Excela\07_ProviderEMRData\EMR34_ValidateUploadEMRFileTypeAsPerApplicableFlagSettings.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

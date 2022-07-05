@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Concentra</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://concentraqa.heisenberg2.net/Login.aspx'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'orgadmin'</initValue>
+      <name>ORGADMIN_USERNAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'9HohiCyCB2r0q2UYFAGJ/w=='</initValue>
+      <name>ORGADMIN_PWD</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

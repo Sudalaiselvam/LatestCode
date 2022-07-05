@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR34_ValidateUploadEMRFileTypeAsPerApplicableFlagSettings</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0eb084b5-b9df-4fb6-9863-e0f93116203c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>466b17fe-a7d9-4222-9870-655d3ec7ffd1</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/07_ProviderEMRData/td_EMR34_ValidateUploadEMRFileTypeAsPerApplicableFlagSettings</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>466b17fe-a7d9-4222-9870-655d3ec7ffd1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>cba8ad08-4320-4b19-90fc-6c8fad918899</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>466b17fe-a7d9-4222-9870-655d3ec7ffd1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Location</value>
+      <variableId>7bb61584-b5e0-4f23-8634-53e0b1421483</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cba8ad08-4320-4b19-90fc-6c8fad918899</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7bb61584-b5e0-4f23-8634-53e0b1421483</id>
+      <masked>false</masked>
+      <name>Location</name>
+   </variable>
+</TestCaseEntity>

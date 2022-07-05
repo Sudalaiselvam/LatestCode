@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR45_ValidateInterfaceLogSummaryGridHeader</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6af41c49-ca02-4207-8f96-2f2210ae62d7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68981731-51ee-4286-956d-3e61b981056f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'EMR Process'</defaultValue>
+      <description></description>
+      <id>68981731-51ee-4286-956d-3e61b981056f</id>
+      <masked>false</masked>
+      <name>JobName</name>
+   </variable>
+</TestCaseEntity>

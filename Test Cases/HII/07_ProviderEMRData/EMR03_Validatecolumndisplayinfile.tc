@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR03_Validatecolumndisplayinfile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfb4a142-7580-4d6d-b72e-18d339c06631</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2df0c17d-3e37-407a-85e9-41a2e07edd23</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test_Epic_h2_2022_Jan_EMR_2.xlsx'</defaultValue>
+      <description></description>
+      <id>2df0c17d-3e37-407a-85e9-41a2e07edd23</id>
+      <masked>false</masked>
+      <name>FileName</name>
+   </variable>
+</TestCaseEntity>

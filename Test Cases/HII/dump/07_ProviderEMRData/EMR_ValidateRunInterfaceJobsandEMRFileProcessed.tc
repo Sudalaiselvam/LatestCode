@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR_ValidateRunInterfaceJobsandEMRFileProcessed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4fb513fe-cc32-4061-bba1-4b08e3f3eb66</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d9e8d00a-0aa1-4f54-96c9-2242f989920f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/07_ProviderEMRData/td_EMR_ValidateRunInterfaceJobsandEMRFileProcessed</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>d9e8d00a-0aa1-4f54-96c9-2242f989920f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>JobName</value>
+      <variableId>bb50e6a9-aaea-4b4e-857e-3532a068a025</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bb50e6a9-aaea-4b4e-857e-3532a068a025</id>
+      <masked>false</masked>
+      <name>JobName</name>
+   </variable>
+</TestCaseEntity>

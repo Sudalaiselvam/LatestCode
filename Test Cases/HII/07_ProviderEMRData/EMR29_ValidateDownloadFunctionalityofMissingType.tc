@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR29_ValidateDownloadFunctionalityofMissingType</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1adab1a-919d-4c8e-bfdb-52b55a2dc89c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>98d7c47c-7d97-491f-be38-3cb6df171914</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/07_ProviderEMRData/td_EMR29_ValidateDownloadFunctionalityofMissingType</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>98d7c47c-7d97-491f-be38-3cb6df171914</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>MissingType</value>
+      <variableId>bcb9f431-1745-45e9-ab1a-6b5a13637155</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bcb9f431-1745-45e9-ab1a-6b5a13637155</id>
+      <masked>false</masked>
+      <name>MissingType</name>
+   </variable>
+</TestCaseEntity>

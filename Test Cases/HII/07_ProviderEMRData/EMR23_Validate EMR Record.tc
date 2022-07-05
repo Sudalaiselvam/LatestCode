@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR23_Validate EMR Record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0469d08-8eb9-409e-af56-f18244897153</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>1f4a6175-f93b-4baa-b5ae-4fae1a046f5d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/ArdentQA/07_ProviderEMRData/td_EMR23_Validate EMR Reord</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>1f4a6175-f93b-4baa-b5ae-4fae1a046f5d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>JobName</value>
+      <variableId>4e0c443d-cdf7-48a8-aaf0-878556b365aa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>1f4a6175-f93b-4baa-b5ae-4fae1a046f5d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>InputFileName</value>
+      <variableId>b5c14e84-c2f7-4715-a551-8d646d3e7cc3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>1f4a6175-f93b-4baa-b5ae-4fae1a046f5d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ProcessedDate</value>
+      <variableId>1862761c-7e84-412e-baea-f8badda7c3f7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4e0c443d-cdf7-48a8-aaf0-878556b365aa</id>
+      <masked>false</masked>
+      <name>JobName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5c14e84-c2f7-4715-a551-8d646d3e7cc3</id>
+      <masked>false</masked>
+      <name>InputFileName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1862761c-7e84-412e-baea-f8badda7c3f7</id>
+      <masked>false</masked>
+      <name>ProcessedDate</name>
+   </variable>
+</TestCaseEntity>

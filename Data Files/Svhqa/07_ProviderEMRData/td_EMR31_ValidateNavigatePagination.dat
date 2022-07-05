@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_EMR31_ValidateNavigatePagination</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>71fda47e-a041-4594-8a7b-5b960a7d8086</dataFileGUID>
+   <dataSourceUrl>C:\Users\AzureAdmin\git\FinalH2ApplicationNew\QAAutomation\QAAutomation\Data Files\Svhqa\07_ProviderEMRData\EMR31_ValidateNavigatePagination.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

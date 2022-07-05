@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR30_ValidateScrollFunctionalityWhenEMRListContainsMax500records</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59eb5ff5-29a2-4151-86d1-d05b21e2a48e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6082077a-457c-44a2-9a83-dd932a550b92</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/07_ProviderEMRData/td_EMR30_ValidateScrollFunctionalityWhenEMRListContainsMax500records</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6082077a-457c-44a2-9a83-dd932a550b92</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>6a9c5cff-786c-4197-beaa-6b37fb1c1bfe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6a9c5cff-786c-4197-beaa-6b37fb1c1bfe</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+</TestCaseEntity>

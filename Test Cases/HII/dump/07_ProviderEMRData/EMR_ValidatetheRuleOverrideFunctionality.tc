@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR_ValidatetheRuleOverrideFunctionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b971c403-582a-4671-9e37-1c1f69f45286</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a4a7ffe-0943-4656-bdfc-a096c000bcde</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'0504T'</defaultValue>
+      <description></description>
+      <id>7a4a7ffe-0943-4656-bdfc-a096c000bcde</id>
+      <masked>false</masked>
+      <name>CPTCode</name>
+   </variable>
+</TestCaseEntity>

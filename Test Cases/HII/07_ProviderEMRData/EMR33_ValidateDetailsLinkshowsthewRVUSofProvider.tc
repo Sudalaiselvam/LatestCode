@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR33_ValidateDetailsLinkshowsthewRVUSofProvider</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07d06431-cb0c-4981-99dc-84d16e067050</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>86423ca9-d7d3-4ce9-a83e-88453c33207e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TeamHealth/07_ProviderEMRData/td_EMR33_ValidateDetailsLinkshowsthewRVUSofProvider</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>86423ca9-d7d3-4ce9-a83e-88453c33207e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Region</value>
+      <variableId>dc9c2801-f558-44fd-9272-cdb85f8d0ffd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dc9c2801-f558-44fd-9272-cdb85f8d0ffd</id>
+      <masked>false</masked>
+      <name>Region</name>
+   </variable>
+</TestCaseEntity>

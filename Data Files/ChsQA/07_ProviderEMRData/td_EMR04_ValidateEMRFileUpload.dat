@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>td_EMR04_ValidateEMRFileUpload</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>755e8788-18a2-450a-88be-3f11f58ea658</dataFileGUID>
+   <dataSourceUrl>C:\Users\AzureAdmin\git\FinalH2ApplicationNew\QAAutomation\QAAutomation\Data Files\ChsQA\07_ProviderEMRData\EMR04_ValidateEMRFileUpload.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

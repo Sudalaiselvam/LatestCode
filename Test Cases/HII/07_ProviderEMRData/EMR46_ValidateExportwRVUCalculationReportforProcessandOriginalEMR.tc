@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EMR46_ValidateExportwRVUCalculationReportforProcessandOriginalEMR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f40d159-df75-43ac-b0ff-9fa1f0abc2ba</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>5cdc37f5-e02f-4b89-86b8-ae1e21028ec8</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/ArdentQA/07_ProviderEMRData/td_EMR46_ValidateExportwRVUCalculationReportforProcessandOriginalEMR</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>5cdc37f5-e02f-4b89-86b8-ae1e21028ec8</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>JobName</value>
+      <variableId>be1d70f8-20af-49fa-a39d-7efcaa391a55</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5cdc37f5-e02f-4b89-86b8-ae1e21028ec8</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ProviderName</value>
+      <variableId>d87abb67-49b6-44f6-8619-7c239b2d52ae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be1d70f8-20af-49fa-a39d-7efcaa391a55</id>
+      <masked>false</masked>
+      <name>JobName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d87abb67-49b6-44f6-8619-7c239b2d52ae</id>
+      <masked>false</masked>
+      <name>ProviderName</name>
+   </variable>
+</TestCaseEntity>
